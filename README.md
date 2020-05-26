@@ -1,2 +1,2 @@
 # PacMan_AI
-This file contains bunch of selected projects during my time at Washington University in St Louis
+This file contains an Artificial Intelligence project during my time at Washington University in St Louis. 
